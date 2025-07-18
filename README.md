@@ -34,6 +34,7 @@ A modern, responsive, and blazing-fast personal portfolio built with **Next.js**
 ---
 
 ## 📁 Project Structure
+```
 portfolio-site-master/
 ├── app/ # App Router Pages
 │ ├── (root)/
@@ -45,6 +46,7 @@ portfolio-site-master/
 ├── util/ # Upload logic, helpers
 ├── .env # Environment variables
 └── tailwind.config.ts # Tailwind setup
+```
 
 ---
 
