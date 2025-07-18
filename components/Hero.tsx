@@ -7,7 +7,7 @@ import Image from "next/image";
 import { Button } from "./ui/button";
 import { Github, Linkedin } from "lucide-react";
 
-const image = "/areeb.png";
+const image = "/Areeb.png";
 
 const Hero = () => {
   return (
