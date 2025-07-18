@@ -81,6 +81,17 @@ You can easily deploy the site using platforms like:
 
 Just connect your GitHub repo and follow the instructions. The next.config.js and build setup are ready for production.
 
+## 🙋‍♂️ About Me
+
+Hi! I'm **Areeb Nadeem**, a passionate **AI enthusiast** from **FAST NUCES Karachi**. I specialize in building intelligent AI-driven applications that leverage data to solve real-world problems. From machine learning models to full-stack AI systems, I love turning complex ideas into practical, impactful solutions.
+
+- 📧 **Email:** [M.AreebBinNadeem@gmail.com](mailto:M.AreebBinNadeem@gmail.com)  
+- 🌐 **Portfolio:** [areeb.dev](https://areeb.dev)  
+- 🧑‍💼 **LinkedIn:** [linkedin.com/in/areeb-nadeem](https://linkedin.com/in/areeb-nadeem)  
+- 🐙 **GitHub:** [github.com/areebbinnadeem](https://github.com/areebbinnadeem)
+
+
+
 
 
 
