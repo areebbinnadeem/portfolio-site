@@ -1,6 +1,6 @@
 # 💼 Areeb Nadeem's Developer Portfolio
 
-![Portfolio Banner](https://drive.google.com/file/d/1WJKSxE1FoM5ntp10rftHTx9K2hbepcg0/view?usp=sharing) 
+![Portfolio Banner](banner.PNG) 
 
 A modern, responsive, and blazing-fast personal portfolio built with **Next.js**, **Tailwind CSS**, and **TypeScript**. This site showcases my work, blog posts, and projects, designed to help potential employers, collaborators, and clients discover more about me and my skills.
 
