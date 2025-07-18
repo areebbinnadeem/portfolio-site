@@ -1,11 +1,9 @@
 "use client";
-import ProjectCollaborate from "@/components/ProjectCollaborate";
 
 import { Button } from "@/components/ui/button";
 import { CodeIcon, Github } from "lucide-react";
 import Image from "next/image";
 import React, { useEffect, useState } from "react";
-import image from "@/public/pexels-divinetechygirl-1181675.jpg";
 import { useParams } from "next/navigation";
 import { getProjectById } from "@/lib/actions/route";
 import Link from "next/link";
@@ -145,7 +143,6 @@ const page = () => {
           </div>
         </div>
       </section>
-      <ProjectCollaborate />
     </>
   );
 };
